@@ -1,0 +1,6 @@
+
+# the files i don't want to commit
+*.log
+
+calculator
+calculator.o
